@@ -19,4 +19,5 @@ WSTK (Web Scraping Toolkit) is a highly extensible & customizable yet efficient 
 - Distributed & async crawling
 - Perform NLP tasks on scraped data
 - Optionally save & analyze historical data (date of crawling, URLs visited, # of chars scraped, etc.)
+- Emailing system
 - ...
