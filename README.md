@@ -8,5 +8,6 @@ WSTK (Web Scraping Toolkit) is a highly extensible & customizable yet efficient 
 - New page mechanism
 - Auto-scraping videos in .m3u8 format
 - Bypass font/JS obfuscation + common CAPTCHAs
+- Website change detection
 - Perform NLP tasks on scraped data
 - ...
